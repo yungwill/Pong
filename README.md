@@ -1,6 +1,7 @@
 # PongClone
 CSUF CPSC Project: Created a version of Pong.
 
+All programming was done with no experience in Python except in the CPSC 386 class.
 This game include a start screen.
 Player controls 3 paddles, 2 horizontal and 1 vertical.
 Player plays against AI opponent.
