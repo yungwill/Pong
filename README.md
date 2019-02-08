@@ -1,7 +1,8 @@
 # PongClone
 CSUF CPSC Project: Created a version of Pong.
 
-All programming was done with no experience in Python except in the CPSC 386 class.
+Completion Time: 2 Weeks
+All programming was done with no previous experience in Python except what was learned in the CPSC 386 class.
 This game include a start screen.
 Player controls 3 paddles, 2 horizontal and 1 vertical.
 Player plays against AI opponent.
